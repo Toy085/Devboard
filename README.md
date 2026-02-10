@@ -17,3 +17,9 @@ Available in .csv format: [bom.csv](https://github.com/Toy085/Devboard/blob/main
 | 1x20 pin header | 2 | https://jlcpcb.com/partdetail/51993-2_54_1_20PStraightpin/C50981 |
 | 1x3 pin header | 1 | https://jlcpcb.com/partdetail/50265-2_54_13PPin/C49257 |
 | RP2040 | 1 | https://jlcpcb.com/partdetail/RaspberryPi-RP2040/C2040 |
+| Button | 1 | https://jlcpcb.com/partdetail/XUNPU-TS_1088AR02016/C720477 |
+| 5.1K Resistor | 2 | https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905 |
+| 1K Resistor | 2 | https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702 |
+| 27Ω Resistor | 2 | https://jlcpcb.com/partdetail/25843-0402WGF270JTCE/C25100 |
+| 10K Resistor | 1 | https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744 |
+
