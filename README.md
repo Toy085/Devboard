@@ -22,4 +22,6 @@ Available in .csv format: [bom.csv](https://github.com/Toy085/Devboard/blob/main
 | 1K Resistor | 2 | https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702 |
 | 27Ω Resistor | 2 | https://jlcpcb.com/partdetail/25843-0402WGF270JTCE/C25100 |
 | 10K Resistor | 1 | https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744 |
-
+| 12MHz Crystal Oscillator | 1 | https://jlcpcb.com/partdetail/NDK-NX3225GA_12MHZ_STD_CRG2/C481407 |
+| Transistor | 1 | https://jlcpcb.com/partdetail/2489-2SA812_RANGE_300_400/C2132 |
+| Flash storage | 1 | https://jlcpcb.com/partdetail/WinbondElec-W25Q16JVUXIQ/C2843335 |
